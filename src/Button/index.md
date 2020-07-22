@@ -11,6 +11,7 @@ Demo:
 ```tsx
 import React from 'react';
 import { WhiteSpace } from 'antd-mobile';
+import 'antd-mobile/es/white-space/style/css';
 import { Button } from 'dumi-theme-alita';
 
 export default () => (
